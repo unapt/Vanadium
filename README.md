@@ -3,6 +3,7 @@
 This is straight boiler-plate using:
 
 Frontend: NextJS, Typescript, Chakra UI
+
 Backend: FastAPI, Python
 
 Install dependencies (you might have to run this command in both the frontend and backend)
