@@ -24,7 +24,7 @@ Then you can run the backend on a different terminal instance:
 yarn workspace backend dev
 ```
 
-###Troubleshooting Errors:
+####Troubleshooting Errors:
 If you are having initial erroring in front-end code, make sure you are using the workspace version of typescript. 
 You can check this through command pallete ```CRLT``` + ```SHIFT``` + ```P``` then typing ```Typescript: Select Typescript Version```
 
