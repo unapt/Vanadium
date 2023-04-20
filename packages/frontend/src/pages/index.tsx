@@ -47,7 +47,13 @@ const Index = () => (
 
     <DarkModeSwitch />
     <Footer>
-      <Text>❤️</Text>
+      <Text>
+        Fix issues on{" "}
+        <ChakraLink href="https://github.com/unapt/Vanadium" color="teal.500">
+          Github
+        </ChakraLink>
+        ❤️
+      </Text>
     </Footer>
     <CTA />
   </Container>
